@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Emotion Weather Station",
+    "slug": "emotion-weather-station",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "edu.umich.emotionweather"
+    },
+    "android": {
+      "package": "edu.umich.emotionweather",
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": ["expo-font"]
+  }
+}
