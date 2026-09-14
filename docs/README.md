@@ -1,6 +1,4 @@
-# Mobile App Development — Prototype Starter
-
-Use this repository to build, test, and submit your React Native prototype.
+# Mobile App Development — Emotion Weather Station
 
 By the end of this process, you will have:
 
@@ -10,13 +8,6 @@ By the end of this process, you will have:
 - Run the app locally
 - Saved your work with Git
 - Submitted a pull request for grading
-
-> [!TIP]
-> ## Use AI when you get stuck
->
-> You are encouraged to ask [U-M GPT](https://umgpt.umich.edu/) or another approved AI assistant to explain errors and help you troubleshoot.
->
-> Never share passwords, access tokens, API keys, or other private information with an AI assistant.
 
 ---
 
