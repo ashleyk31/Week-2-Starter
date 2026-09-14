@@ -10,8 +10,7 @@
       "bundleIdentifier": "edu.umich.emotionweather"
     },
     "android": {
-      "package": "edu.umich.emotionweather",
-      "edgeToEdgeEnabled": true
+      "package": "edu.umich.emotionweather"
     },
     "web": {
       "bundler": "metro"
